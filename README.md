@@ -16,10 +16,10 @@
 
 > 2024-04-16 ~ 2023-06-14
 
-| 기간 | 내용 | 마지막 코드 | 1차 PR | 2차 PR | 회고 |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| 04-16 ~ 04-29 | 방탈출 예약 관리 | [repository](https://github.com/kyum-q/spring-roomescape-admin) | [1차 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/16) | [2차 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/124) |  |
-| 04-30 ~ 05-13 | 방탈출 사용자 예약 | [repository](https://github.com/kyum-q/spring-roomescape-member) | [1차 PR](https://github.com/woowacourse/spring-roomescape-member/pull/75) | [2차 PR](https://github.com/woowacourse/spring-roomescape-member/pull/147) |  |
-| 05-14 ~ 05-27 | 방탈출 예약 대기 | [repository](https://github.com/kyum-q/spring-roomescape-waiting) | [1차 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/84) | [2차 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/163) |  |
-| 05-28 ~ 06-10 | 방탈출 결제 / 배포 | [repository](https://github.com/kyum-q/spring-roomescape-payment) | [1차 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/11) | [2차 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/134) |  |
+| 기간 | 내용 | 마지막 코드 | 1차 PR | 2차 PR |
+| :--- | :--- | :---: | :---: | :---: |
+| 04-16 ~ 04-29 | 방탈출 예약 관리 | [repository](https://github.com/kyum-q/spring-roomescape-admin) | [1차 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/16) | [2차 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/124) |  
+| 04-30 ~ 05-13 | 방탈출 사용자 예약 | [repository](https://github.com/kyum-q/spring-roomescape-member) | [1차 PR](https://github.com/woowacourse/spring-roomescape-member/pull/75) | [2차 PR](https://github.com/woowacourse/spring-roomescape-member/pull/147) |  
+| 05-14 ~ 05-27 | 방탈출 예약 대기 | [repository](https://github.com/kyum-q/spring-roomescape-waiting) | [1차 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/84) | [2차 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/163) |  
+| 05-28 ~ 06-10 | 방탈출 결제 / 배포 | [repository](https://github.com/kyum-q/spring-roomescape-payment) | [1차 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/11) | [2차 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/134) |  
 <br>
